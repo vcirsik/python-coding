@@ -15,10 +15,6 @@ Created on Mon Jun  7 21:50:23 2021
 # =============================================================================
 
 
-# change dir
-import os
-path = ".\Documents\GitHub\python-coding\decision_tree\loan_classification\project_1"
-os.chdir(path)
 
 import numpy as np
 import pandas as pd
