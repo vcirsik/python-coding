@@ -145,7 +145,6 @@ simple_model_coef_table = pd.DataFrame({'word':significant_words,
 simple_model_coef_table.sort_values('coefficient', ascending  = 0)
 
 
-
 complex_Tr_accuracy = accuracy_score(y_true=train_data['sentiment'].to_numpy(), y_pred=sentiment_model.predict(train_matrix))
 print("Complex Model Train Accuracy: %s" % complex_Tr_accuracy)
 
