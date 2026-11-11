@@ -1,4 +1,4 @@
-Python: Statistical Modeling & Machine Learning
+## Python: Statistical Modeling & Machine Learning
 
 A collection of Python projects exploring statistical modeling, machine learning, and data analysis. These projects were developed through coursework and independent experimentation to build and apply programming and quantitative analysis skills.
 
